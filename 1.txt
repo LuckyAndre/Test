@@ -1,2 +1,2 @@
-add first line to file
-conflicting information added to file
+add first
+line to file
